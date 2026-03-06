@@ -1,3 +1,7 @@
 twilio
 python-dotenv
 jupyter
+uvicorn
+fastapi
+websockets
+openai
